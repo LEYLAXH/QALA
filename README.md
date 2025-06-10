@@ -1,4 +1,4 @@
-🎨 QALA – The Artist Platform
+# 🎨 QALA – The Artist Platform
 QALA is a web-based platform designed to empower home-based artists by providing a professional, accessible space to showcase and sell their handcrafted artwork. It supports seamless commission requests, intelligent recommendations, and a user-friendly experience for customers, artists, and administrators.
 
 🚀 Features
